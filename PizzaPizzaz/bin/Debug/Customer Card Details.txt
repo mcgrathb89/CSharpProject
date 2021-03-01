@@ -1,0 +1,15 @@
+
+			   -|- Pizza Pizzaz -|-
+
+
+ Date and Time of Card Details Storage: 21 December 2017 03:58 PM
+
+
+ Customer Card Details
+ ---------------------
+
+ Customer Name: Bobby McGrath
+ Name on Card: 
+ Card Number: 
+ Sort Code: 
+ Expiry Date: 

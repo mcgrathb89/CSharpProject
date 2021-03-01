@@ -1,0 +1,13 @@
+C:\Users\mcgra_000\Desktop\University Stuff\Uni Stuff\PizzaPizzaz\PizzaPizzaz\bin\Debug\PizzaPizzaz.exe.config
+C:\Users\mcgra_000\Desktop\University Stuff\Uni Stuff\PizzaPizzaz\PizzaPizzaz\bin\Debug\PizzaPizzaz.exe
+C:\Users\mcgra_000\Desktop\University Stuff\Uni Stuff\PizzaPizzaz\PizzaPizzaz\bin\Debug\PizzaPizzaz.pdb
+C:\Users\mcgra_000\Desktop\University Stuff\Uni Stuff\PizzaPizzaz\PizzaPizzaz\obj\Debug\PizzaPizzaz.csprojResolveAssemblyReference.cache
+C:\Users\mcgra_000\Desktop\University Stuff\Uni Stuff\PizzaPizzaz\PizzaPizzaz\obj\Debug\PizzaPizzaz.csproj.CoreCompileInputs.cache
+C:\Users\mcgra_000\Desktop\University Stuff\Uni Stuff\PizzaPizzaz\PizzaPizzaz\obj\Debug\PizzaPizzaz.exe
+C:\Users\mcgra_000\Desktop\University Stuff\Uni Stuff\PizzaPizzaz\PizzaPizzaz\obj\Debug\PizzaPizzaz.pdb
+C:\Users\Bobby\Desktop\Code Examples\PizzaPizzaz\PizzaPizzaz\bin\Debug\PizzaPizzaz.exe.config
+C:\Users\Bobby\Desktop\Code Examples\PizzaPizzaz\PizzaPizzaz\bin\Debug\PizzaPizzaz.exe
+C:\Users\Bobby\Desktop\Code Examples\PizzaPizzaz\PizzaPizzaz\bin\Debug\PizzaPizzaz.pdb
+C:\Users\Bobby\Desktop\Code Examples\PizzaPizzaz\PizzaPizzaz\obj\Debug\PizzaPizzaz.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\Desktop\Code Examples\PizzaPizzaz\PizzaPizzaz\obj\Debug\PizzaPizzaz.exe
+C:\Users\Bobby\Desktop\Code Examples\PizzaPizzaz\PizzaPizzaz\obj\Debug\PizzaPizzaz.pdb
